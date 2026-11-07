@@ -3,7 +3,7 @@
 Projeto semestral de **Programação Funcional** em Haskell.
 **Fase atual: Fase 1 (modelação e núcleo funcional).**
 
-Grupo:  PLO3GR02  · Elementos: 
+Grupo:  PLO3GR02  · Elementos: André Machado; Guilherme Silva; Tomás Monteiro.
 
 ## Descrição
 
